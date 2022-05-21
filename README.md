@@ -1,2 +1,2 @@
 # MGA Education
-[https://mga.rocks/](https://mga.education/)
+[https://mga.education/](https://mga.education/)
